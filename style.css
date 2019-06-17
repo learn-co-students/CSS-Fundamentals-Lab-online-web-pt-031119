@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+
+section#details {
+  background: rgb(255, 0, 0);
+  display: flex;
+  margin: 0% -1% 1% -1%;
+}
+section#details div {
+  margin: 1% 7% 1% 7%;
+}
+
+header, section#featured-property {
+  align-content: center;
+  padding: 2% 20% 2% 15%;
+}
